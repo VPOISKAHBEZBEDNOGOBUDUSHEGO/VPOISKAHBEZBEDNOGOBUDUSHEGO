@@ -1,15 +1,15 @@
 # Ivan Starodumov
 
-Product manager in training. Учусь в магистратуре по продукту, до этого 2+ месяца веду реальный проект от идеи до платящего использования. Собираю продукты и анализ сам, с помощью Claude Code - код ниже рабочий, не демо-заглушки.
+Product manager. Довожу продукты от идеи до работающего кода с помощью AI-инструментов (Claude Code) и проверяю решения данными, а не только гипотезами. Параллельно учусь в продуктовой магистратуре.
+
+Ниже 4 доведённых до конца проекта: AI-ассистент юриста с реальными пользователями и три расчётно-аналитических инструмента, перенесённые из ручных Excel-моделей в тестируемый код.
 
 ## Проекты
 
-**[Moreau](https://github.com/VPOISKAHBEZBEDNOGOBUDUSHEGO/moreau-portfolio)** - AI-ассистент юриста: Telegram-приём клиентов + веб-приложение с AI-агентом для дел, документов и сроков. Реальные пользователи, MVP в тесте, ~43 000 строк кода, ~933 теста, спроектирован с учётом 152-ФЗ.
+**[Moreau](https://github.com/VPOISKAHBEZBEDNOGOBUDUSHEGO/moreau-portfolio)** - AI-ассистент юриста: Telegram-приём клиентов + веб-приложение с AI-агентом для дел, документов и сроков. Реальные пользователи, MVP в тесте, ~43 000 строк кода, ~933 теста, спроектирован с учётом 152-ФЗ. Стек: Python/FastAPI, Telegram Bot API, Claude API, SQLite.
 
-**[UnitCalc](https://vpoiskahbezbednogobudushego.github.io/unitcalc/)** ([код](https://github.com/VPOISKAHBEZBEDNOGOBUDUSHEGO/unitcalc)) - офлайн-калькулятор unit-экономики для продавцов на маркетплейсах: прибыль заказа, точка безубыточности, стресс-сценарии. Ноль зависимостей, открывается в браузере без установки.
+**[UnitCalc](https://github.com/VPOISKAHBEZBEDNOGOBUDUSHEGO/unitcalc)** - офлайн-калькулятор unit-экономики для продавцов на маркетплейсах: прибыль заказа, точка безубыточности, стресс-сценарии. Стек: JavaScript, без зависимостей. [Открыть калькулятор →](https://vpoiskahbezbednogobudushego.github.io/unitcalc/)
 
-**[Аналитика клиентской базы](https://github.com/VPOISKAHBEZBEDNOGOBUDUSHEGO/ecommerce-customer-analytics)** - RFM-сегментация, ABC/XYZ, кластеризация, A/B-тест и сценарный LTV на 542 тыс. транзакций интернет-магазина. С честными методическими ограничениями там, где выводы зависят от допущений модели.
+**[Аналитика клиентской базы](https://github.com/VPOISKAHBEZBEDNOGOBUDUSHEGO/ecommerce-customer-analytics)** - RFM-сегментация, ABC/XYZ, кластеризация, A/B-тест и сценарный LTV на 542 тыс. транзакций интернет-магазина. С честными методическими ограничениями там, где выводы зависят от допущений модели. Стек: Python, pandas, scikit-learn.
 
-**[Оценка инвестиционных проектов](https://github.com/VPOISKAHBEZBEDNOGOBUDUSHEGO/investment-project-analysis)** - сравнение пяти проектов четырьмя методами в условиях неопределённости (сценарный анализ, нечёткий NPV, метод Чиу-Парка), перенесённое из Excel в проверяемый тестами Python.
-
-Стек: Python, pandas/scikit-learn, FastAPI, JavaScript, Claude API.
+**[Оценка инвестиционных проектов](https://github.com/VPOISKAHBEZBEDNOGOBUDUSHEGO/investment-project-analysis)** - сравнение пяти проектов четырьмя методами в условиях неопределённости (сценарный анализ, нечёткий NPV, метод Чиу-Парка). Стек: Python, pandas, matplotlib.
