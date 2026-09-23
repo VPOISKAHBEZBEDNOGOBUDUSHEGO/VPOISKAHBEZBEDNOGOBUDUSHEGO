@@ -4,7 +4,7 @@ Product manager in training. Учусь в магистратуре по про�
 
 ## Проекты
 
-**[Moreau](https://github.com/VPOISKAHBEZBEDNOGOBUDUSHEGO/moreau-portfolio)** - AI-ассистент юриста: Telegram-приём клиентов + веб-дашборд с AI-агентом для дел, документов и сроков. Реальный пользователь, MVP в тесте, ~43 000 строк кода, ~933 теста, спроектирован с учётом 152-ФЗ.
+**[Moreau](https://github.com/VPOISKAHBEZBEDNOGOBUDUSHEGO/moreau-portfolio)** - AI-ассистент юриста: Telegram-приём клиентов + веб-приложение с AI-агентом для дел, документов и сроков. Реальные пользователи, MVP в тесте, ~43 000 строк кода, ~933 теста, спроектирован с учётом 152-ФЗ.
 
 **[UnitCalc](https://vpoiskahbezbednogobudushego.github.io/unitcalc/)** ([код](https://github.com/VPOISKAHBEZBEDNOGOBUDUSHEGO/unitcalc)) - офлайн-калькулятор unit-экономики для продавцов на маркетплейсах: прибыль заказа, точка безубыточности, стресс-сценарии. Ноль зависимостей, открывается в браузере без установки.
 
