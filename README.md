@@ -6,10 +6,10 @@ Product manager. Довожу продукты от идеи до работаю
 
 ## Проекты
 
-**[Moreau](https://github.com/VPOISKAHBEZBEDNOGOBUDUSHEGO/moreau-portfolio)** - AI-ассистент юриста: Telegram-приём клиентов + веб-приложение с AI-агентом для дел, документов и сроков. Реальные пользователи, MVP в тесте, ~43 000 строк кода, ~933 теста, спроектирован с учётом 152-ФЗ. Стек: Python/FastAPI, Telegram Bot API, Claude API, SQLite.
+**[Moreau](https://github.com/ivanstarodumov/moreau-portfolio)** - AI-ассистент юриста: Telegram-приём клиентов + веб-приложение с AI-агентом для дел, документов и сроков. Реальные пользователи, MVP в тесте, ~43 000 строк кода, ~933 теста, спроектирован с учётом 152-ФЗ. Стек: Python/FastAPI, Telegram Bot API, Claude API, SQLite.
 
-**[UnitCalc](https://github.com/VPOISKAHBEZBEDNOGOBUDUSHEGO/unitcalc)** - офлайн-калькулятор unit-экономики для продавцов на маркетплейсах: прибыль заказа, точка безубыточности, стресс-сценарии. Стек: JavaScript, без зависимостей. [Открыть калькулятор →](https://vpoiskahbezbednogobudushego.github.io/unitcalc/)
+**[UnitCalc](https://github.com/ivanstarodumov/unitcalc)** - офлайн-калькулятор unit-экономики для продавцов на маркетплейсах: прибыль заказа, точка безубыточности, стресс-сценарии. Стек: JavaScript, без зависимостей. [Открыть калькулятор →](https://ivanstarodumov.github.io/unitcalc/)
 
-**[Аналитика клиентской базы](https://github.com/VPOISKAHBEZBEDNOGOBUDUSHEGO/ecommerce-customer-analytics)** - RFM-сегментация, ABC/XYZ, кластеризация, A/B-тест и сценарный LTV на 542 тыс. транзакций интернет-магазина. С честными методическими ограничениями там, где выводы зависят от допущений модели. Стек: Python, pandas, scikit-learn.
+**[Аналитика клиентской базы](https://github.com/ivanstarodumov/ecommerce-customer-analytics)** - RFM-сегментация, ABC/XYZ, кластеризация, A/B-тест и сценарный LTV на 542 тыс. транзакций интернет-магазина. С честными методическими ограничениями там, где выводы зависят от допущений модели. Стек: Python, pandas, scikit-learn.
 
-**[Оценка инвестиционных проектов](https://github.com/VPOISKAHBEZBEDNOGOBUDUSHEGO/investment-project-analysis)** - сравнение пяти проектов четырьмя методами в условиях неопределённости (сценарный анализ, нечёткий NPV, метод Чиу-Парка). Стек: Python, pandas, matplotlib.
+**[Оценка инвестиционных проектов](https://github.com/ivanstarodumov/investment-project-analysis)** - сравнение пяти проектов четырьмя методами в условиях неопределённости (сценарный анализ, нечёткий NPV, метод Чиу-Парка). Стек: Python, pandas, matplotlib.
